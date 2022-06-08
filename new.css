@@ -9,7 +9,7 @@ padding: 0;
     background-color: whitesmoke ;
     position: relative;
     width: 1000px;
-    height: 700px;
+    height: 800px;
     }
     .body-image{
         height: 350px;
@@ -27,7 +27,7 @@ height: 650px;
 width: 450px;
 }
 .section-image{
-    border-top: 15px;
+    border: 15px;
 }
 .h1{
 margin-bottom: 20px;
@@ -94,4 +94,22 @@ align-items: center;
 .change:hover{
     color:rgb(138, 142, 142) ;
     text-decoration: none;
+}
+.payment-button{
+    height: 50px;
+    width: 355px;
+    border-radius: 15px;
+    background-color: blue;
+    color:#fff;
+    border-color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.payment-button:hover{
+    background-color:rgb(138, 142, 142);
+}
+.footer{
+    margin-left: 190px;
+    margin-top: 40px; 
 }
